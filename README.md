@@ -1,1 +1,1 @@
-# git_practiced
+Hello Git and GitHub
